@@ -1,5 +1,5 @@
 # Blur
-An app that can play the blur of the image.
+An app that can blur the image.
 
 Languages used: 
 - HTML
